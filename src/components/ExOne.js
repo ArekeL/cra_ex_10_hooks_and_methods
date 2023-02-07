@@ -32,9 +32,6 @@ class ExOne extends PureComponent {
 					Show / Hide Counter
 				</button>
 				<div className='hideBox'>{counterElement}</div>
-				<div className='break'>
-					<hr />
-				</div>
 			</div>
 		);
 	}

@@ -1,5 +1,9 @@
 import ExOne from "./ExOne";
 import ExTwo from "./ExTwo";
+import ExThree from "./ExThree";
+import ExFour from "./ExFour";
+import ExFive from "./ExFive";
+import ExSix from "./ExSix";
 
 import "./App.css";
 
@@ -10,6 +14,10 @@ function App() {
 			<br />
 			<ExOne />
 			<ExTwo />
+			<ExThree />
+			<ExFour />
+			<ExFive />
+			<ExSix />
 		</div>
 	);
 }
