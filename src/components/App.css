@@ -43,3 +43,8 @@ button:hover {
 	height: 110px;
 	margin: 5px auto;
 }
+
+.exThreeTitle {
+	text-align: center;
+	color: rgb(70, 125, 147);
+}
