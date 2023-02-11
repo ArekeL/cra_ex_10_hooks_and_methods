@@ -10,7 +10,7 @@ const ExFour = () => {
 	const increaseSecondtCounter = () => setSecondCounter(secondCounter + 1);
 	return (
 		<div className='wraper'>
-			<h3>React.memo</h3>
+			<h3>Exercise 3 - React.memo</h3>
 			<p>First counter value: {firstCounter}</p>
 			<p>Second counter value: {secondCounter}</p>
 			<ExFourCounter counter={firstCounter} index={1} />
